@@ -2,7 +2,7 @@ import { createSlice,createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
-const api = "http://localhost:8080/api/v1/"
+const api = "https://marketplace-apii.onrender.com/api/v1/"
 export const fetchUserData = createAsyncThunk(
     "auth/fetchUserData",
     async (token) => {
