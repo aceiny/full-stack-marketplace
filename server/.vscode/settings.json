@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code, Menlo, monospace",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSurroundingLines": 0,
+    "editor.cursorWidth": 0
+}
