@@ -73,12 +73,3 @@ function App() {
 }
 
 export default App;
-/*<Route path="/products" element={isAuth?<ProductsPage/>:<Navigate to="/login"/>}/>
-      <Route path="/products/:id" element={isAuth?<ProductPage/>:<NotFound/>}/>
-      <Route path="/cart" element={isAuth?<CartPage/>:<NotFound/>}/>
-      <Route path="/login" element={isAuth?<Navigate to="/products"/>:<LoginPage/>}/>
-      <Route path="/signup" element={isAuth?<Navigate to="/products"/>:<RegisterPage/>}/>
-      <Route path="/admin" element={<AdminAuth/>}/>
-      <Route path="/admin/allproducts" element={isAdmin?<AllProductsAdmin/>:<NotFound/>}/>
-      <Route path="/admin/addproduct" element={isAdmin?<AddProductAdmin/>:<NotFound/>}/>
-      <Route path="/admin/removeproduct" element={isAdmin?<RemoveProductAdmin/>:<NotFound/>}/>*/
