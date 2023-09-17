@@ -3,9 +3,10 @@ a full stack marketplace created using mern stack plus tailwind , redux and some
 # have all marketplace features instead for a payment gatway or order registrations 
 # filtering through search ,  price , rating and more didn't really add all this in the front end
 # have a full auth system using jwt
-# uses bycrpt to hash and stores password 
+# uses bycrpt to hash and stores password *
+# uses multer library to store images and files
 # all routes instead login and sign up routes are secured and requires login 
-# have admin route to see al products , add products or delete products 
+# have admin route to see all products , add products or delete products 
 # and more more 
 ![auth](https://github.com/aceiny/full-stack-marketplace/assets/112300561/1efba290-2447-414f-bf6b-bcf86bb12945)
 ![all products page](https://github.com/aceiny/full-stack-marketplace/assets/112300561/54e6664a-b242-4863-8498-87aadc60b37c)
